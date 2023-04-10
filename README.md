@@ -1,8 +1,8 @@
 #   Jefferson Balde
 
-****`Frontend Software Engineer specializing in React | Next Js`****
+****`Front-End Software Engineer (React JS) | JavaScript | TypeScript | Node JS | MongoDB | TailwindCSS | Seeking Opportunities to Build Experience`****
 
-An entry-level front-end software engineer, gained practical experience through building personal projects using front-end technologies. Proficient in HTML, CSS, and JavaScript, experienced with popular front-end frameworks such as React and Next Js. Dedicated to staying up-to-date with the latest web technologies and standards, committed to delivering high-quality code and user experiences. Excited to leverage skills and knowledge to contribute to a dynamic and innovative team.
+Programming has grown from a hobby to an obsession. My interest in Web Development started in 2021 when I was trying to edit things on the web, which taught me a lot about HTML & CSS. As I grow and flourish as a Front End Software Engineer, one thing which keeps me going is my inquisitiveness for discovering new things every day. Learning is something I do in a daily basis, and in the world of coding, i will never stop learning; that is my drive. Throughout my coding journey, I learned not only how to create full stack applications from scratch but more importantly, how to be autonomous and learn new skills on my own. I'm looking forward to working with and learning from a team of like-minded engineers.
 
 Socials: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jeffersonbalde) 
 
