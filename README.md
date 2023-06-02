@@ -1,8 +1,5 @@
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeffersonbalde&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
+### Hi, I'm Jeff. <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" data-canonical-src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" style="width: 25px; display: inline-block;" data-target="animated-image.originalImage">
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=jeffersonbalde&label=Profile%20views&color=0e75b6&style=flat" alt="yskooo"/></p>
-<div align=center>
-    <img width="400" src="https://github-readme-stats.vercel.app/api?username=jeffersonbalde&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
-    <img width="400" src="https://github-readme-streak-stats.herokuapp.com?user=jeffersonbalde&theme=tokyonight&hide_border=true" />
-</div>
-
+##### I’m a ``Front End Developer`` living in Pagadian, Philippines, interested in 
+##### how people and software can work together to make life better.
+##### I specialize in ``responsive websites`` and ``functional user interfaces.``
