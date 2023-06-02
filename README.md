@@ -2,3 +2,5 @@
 
 <h5>I’m a Front End Developer living in Pagadian, Philippines, interested in how people and software can work</h5>
 <h5>together to make life better. I specialize in responsive websites and functional user interfaces.</h5>
+
+Reach me on [LinkedIn](https://www.linkedin.com/in/jeffersonbalde/).
