@@ -5,3 +5,11 @@
     <img width="400" src="https://github-readme-stats.vercel.app/api?username=jeffersonbalde&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
     <img width="400" src="https://github-readme-streak-stats.herokuapp.com?user=jeffersonbalde&theme=tokyonight&hide_border=true" />
 </div>
+
+###### <span style="color: green"> Some green text </span>
+
+<span style="color:red">
+Text content
+</span>
+
+A very <span style='color: red;'>long</span> sentence.
